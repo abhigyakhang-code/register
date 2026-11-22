@@ -4,7 +4,9 @@
     "email": "TrancecvRo@gmail.com"
   },
   "records": {
-    "A": ["18.216.4.208"]
+    "A": [
+      "18.216.4.208"
+    ]
   },
   "proxied": true
 }
